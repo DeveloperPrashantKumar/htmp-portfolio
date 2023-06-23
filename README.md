@@ -1,2 +1,2 @@
-# htmp-portfolio
+# html-portfolio
 Simple html projects
